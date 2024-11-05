@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(118, 216, 216);
+}
+
+.aueb-header{
+    color: white;
+    background-color: burlywood;
+}
+
+.cf-header{
+    color:white;
+    background-color: green;
+}
+
+.aueb-text{
+    color:aliceblue;
+    background-color: blue;
+}
+
+.fg-ligth{
+    color:white;
+}

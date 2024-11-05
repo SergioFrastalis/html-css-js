@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+
+
+}
+
+
+.gradient-to-right{
+    width: 800px;
+    height: 200px;
+    border: 1px solid black;
+    background-image: linear-gradient(to right, green, red);
+}
+
+.gradient-to-lefttop{
+    width: 800px;
+    height: 200px;
+    border: 1px solid black;
+    background-image: linear-gradient(to left top, rgb(124, 99, 205), rgb(94, 209, 65))
+
+}
+
+.gradient-to-top{
+    width: 800xpx;
+    height: 200opx;
+    border: 1px solid black;
+    background-image: linear-gradient(to top, rgb(124, 99, 205), rgb(111, 222, 111))
+}
